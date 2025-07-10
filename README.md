@@ -17,6 +17,7 @@ Each script can be run standalone using Python:
 
 ```bash
 python LEACH.py
+```
 
 ## Workflow
 
