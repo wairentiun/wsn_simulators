@@ -1,0 +1,16 @@
+{
+  "network_level": {
+    "node_count": { "variation": [50, 100, 200] },
+    "deployment_area_m2": { "variation": [200, 500, 1000] },
+    "node_placement": { "variation": ["random", "manual_clustered"] },
+    "sink_location": { "variation": ["central", "edge"] }
+  },
+  "node_level": {
+    "initial_energy_joule": { "variation": [1.0, 2.0] },
+    "energy_model": { "variation": ["simple", "event_driven"] }
+  },
+  "environmental": {
+    "node_failure_rate_percent": { "variation": [0.1, 1] },
+    "event_frequency_per_round": { "variation": [0.01, 0.1] }
+  }
+}
