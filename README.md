@@ -2,6 +2,8 @@
 
 This repository contains simulation tools for Wireless Sensor Networks (WSNs), including classical and machine learning–based Cluster-Head (CH) selection protocols.
 
+![WSN Flow Diagram](images/methodology.png)
+
 ## Contents
 
 - `LEACH.py` – Basic LEACH protocol simulator.
