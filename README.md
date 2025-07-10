@@ -9,7 +9,7 @@ This repository contains simulation tools for Wireless Sensor Networks (WSNs), i
 - `GWO.py` – Grey Wolf Optimizer–based CH selection.
 - `ML_Sim.py` – CH selection using trained machine learning models.
 - `ML_Toolkit.py` – Toolkit for training and evaluating ML models on WSN data.
-- 'parameters_variations.json' - Parameters variations.
+- `parameters_variations.json` - Parameters variations.
 
 ## Usage
 
